@@ -443,4 +443,7 @@ npm run dev
 
 ---
 
-**Built with ❤️ for healthcare innovation**
+👨‍💻 Author
+Pratik Patil
+
+GitHub: @pratikpatil-codes
