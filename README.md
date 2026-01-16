@@ -447,3 +447,11 @@ npm run dev
 Pratik Patil
 
 GitHub: @pratikpatil-codes
+Live Demo: https://agentic-aicp.netlify.app/
+
+🎉 Try It Now!
+Open the app: https://agentic-aicp.netlify.app/
+
+Share the link with friends and start chatting! 💬✨
+
+⭐ If you like this project, please give it a star on GitHub!
