@@ -2,6 +2,10 @@
 
 ## Agentic AI-Enabled Multimodal Healthcare Assistant for Symptom Analysis and Smart Triage
 
+
+https://github.com/user-attachments/assets/e251f744-9198-4224-9f01-bb104ec6dacc
+
+
 A production-ready, AI-powered healthcare system that intelligently analyzes patient symptoms, determines severity, and connects them with the right medical specialists.
 
 ---
